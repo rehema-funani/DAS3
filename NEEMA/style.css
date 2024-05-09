@@ -1,0 +1,48 @@
+.container{
+    display:flex;
+    border: 1px solid blueviolet;
+    border-radius: 70px;
+    background-color: blueviolet;
+    width: 70%;
+    gap: 5%;
+    text-align: center;
+
+
+
+
+}
+#form{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 70px;
+    width: 70%;
+    align-self: right;
+    
+
+
+}
+input{
+    padding: 7px;
+    border: 1px solid red;
+    width: 40%;
+
+    
+}
+button{
+    background-color: blue;
+    color: brown;
+    padding: 12px;
+    width: 40%;
+    border-radius: 50px;
+}
+.image{
+    border: 1px solid white;
+    border-radius: 70px;
+    width: 10%;
+    
+}
+#flower{
+    width: 40%;
+    height: auto;
+}
+
