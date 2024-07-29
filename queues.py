@@ -19,6 +19,7 @@ myqueue = deque()
 myqueue.append("Rahma")
 myqueue.append("Adhan")
 myqueue.append("Mansa")
+
 print(myqueue)
 print(myqueue.popleft())
 
@@ -26,5 +27,6 @@ print(myqueue.popleft())
 from queue import Queue
 b = Queue(maxsize = 3)
 print(b.put("shoes"))
+print(b)
 
 
